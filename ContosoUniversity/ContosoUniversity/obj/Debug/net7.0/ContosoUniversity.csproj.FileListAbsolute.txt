@@ -9,8 +9,6 @@ C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\Cont
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\MessagePack.dll
-C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\MessagePack.Annotations.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -44,7 +42,6 @@ C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\Cont
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
@@ -254,3 +251,4 @@ C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\Cont
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\net7.0\ContosoUniversity.pdb
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\net7.0\ContosoUniversity.genruntimeconfig.cache
 C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\obj\Debug\net7.0\ref\ContosoUniversity.dll
+C:\Users\Administrator\Documents\GitHub\ContosoUniversity\ContosoUniversity\ContosoUniversity\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
